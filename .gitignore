@@ -50,7 +50,7 @@ private_mappings/
 # ----------------------------
 # Local result artifacts
 # ----------------------------
-*outputs/
+#*outputs/
 
 # If you want to keep selected public outputs later, remove the line above
 # and ignore only large intermediate outputs selectively.
